@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+
+#: gui/help_gui.py:25
+msgid "Help"
+msgstr "Aide"
+
+#: gui/help_gui.py:44
+msgid "Game Configuration"
+msgstr "Configuration de la partie"
+
+#: gui/help_gui.py:86
+msgid "Game Rules"
+msgstr "Règles du jeu"
+
+#: gui/help_gui.py:91
+msgid "<b>Your goal :</b>\n"
+msgstr "<b>Votre but :</b>\n"
+
+#: gui/help_gui.py:92
+msgid ""
+"Connect your two opposite sides with an unbroken chain before your "
+"opponent.\n"
+"\n"
+msgstr ""
+"Reliez vos deux côtés opposés par une chaîne ininterrompue avant votre "
+"adversaire.\n"
+"\n"
+
+#: gui/help_gui.py:94
+msgid "<b>Gameplay :</b>\n"
+msgstr "<b>Le jeu :</b>\n"
+
+#: gui/help_gui.py:95
+msgid ""
+"- Two players: <b>Black</b> (left to right) and <b>White</b> (top to "
+"bottom).\n"
+msgstr ""
+"- Deux joueurs: <b>Noir</b> (de gauche à droite) et <b>Blanc</b>"
+" (de haut en bas).\n"
+
+#: gui/help_gui.py:97
+msgid "- Players take turns placing a piece on an empty hexagon.\n"
+msgstr "- Les joueurs placent à tour de rôle une pièce sur un hexagone vide.\n"
+
+#: gui/help_gui.py:98
+msgid "- Once placed, pieces cannot be moved or removed.\n"
+msgstr ""
+"- Une fois placées, les pièces ne peuvent être ni déplacées ni retirées.\n"
+
+#: gui/help_gui.py:99
+msgid ""
+"- The four corners belong to both adjacent sides.\n"
+"\n"
+msgstr ""
+"- Les quatres coins peuvent être utilisés par les deux joueurs.\n"
+"\n"
+
+#: gui/help_gui.py:100
+msgid "<b>Winning Condition :</b>\n"
+msgstr "<b>Condition de victoire :</b>\n"
+
+#: gui/help_gui.py:101
+msgid ""
+"The first player to create a continuous path between their two sides wins.\n"
+msgstr ""
+"Le premier joueur à créer un chemin continu entre ses deux côtés gagne.\n"
+
+#: gui/help_gui.py:103
+msgid ""
+"A draw is <b>impossible</b>.\n"
+"\n"
+msgstr ""
+"Une égalité est <b>impossible</b>.\n"
+"\n"
+
+#: gui/help_gui.py:104
+msgid "<b>Swap Rule (Optional) :</b>\n"
+msgstr "<b>Règle du Swap (Optionnel) :</b>\n"
+
+#: gui/help_gui.py:105
+msgid ""
+"The second player can swap colors after the first move to balance the game.\n"
+"\n"
+msgstr ""
+"Le deuxième joueur peut changer de couleur après le premier coup pour "
+"équilibrer le jeu.\n"
+"\n"
+
+#: gui/help_gui.py:107
+msgid "<b>Basic Strategy :</b>\n"
+msgstr "<b>Stratégie de base :</b>\n"
+
+#: gui/help_gui.py:108
+msgid ""
+"- <b>Build, don’t just block</b> : focus on your path while disrupting your "
+"opponent.\n"
+msgstr ""
+"- <b>Construire, ne pas se contenter de bloquer</b> : concentrez-vous sur "
+"votre chemin tout en perturbant votre adversaire.\n"
+
+#: gui/help_gui.py:110
+msgid ""
+"- <b>Bridge formations</b> : Use bridges to make connections between your "
+"pieces and block your opponent simultaneously.\n"
+msgstr ""
+"- <b>Formation de chemins</b> : Utilisez des chemins pour établir des "
+"connexions entre vos pièces et bloquer votre adversaire simultanément.\n"
+
+#: gui/help_gui.py:112
+msgid ""
+"- <b>Hex connections</b> : each tile has <b>6 neighbors</b>, offering "
+"multiple paths.\n"
+msgstr ""
+"- <b>Connexions hexagonales</b> : chaque case a<b> 6 voisins</b>, offrant "
+"des chemins multiples.\n"
+
+#: gui/help_gui.py:114
+msgid ""
+"- <b>Take your time</b> : If you can easily counter your own move, find a "
+"stronger one.\n"
+msgstr ""
+"- <b>Prenez votre temps</b> : Si vous pouvez facilement contrer votre propre "
+"coup, trouvez-en un plus fort.\n"
+
+#: gui/help_gui.py:116
+msgid ""
+"- <b>Never give up</b> : Don't lose hope until the game is truly over, focus "
+"on securing winnable areas."
+msgstr ""
+"- <b>Ne jamais abandonner</b> : Ne perdez pas espoir jusqu'à ce que le jeu "
+"soit vraiment terminé, concentrez-vous sur la sécurisation des zones "
+"gagnables."
+
+#: gui/help_gui.py:126
+msgid "Back"
+msgstr "Retour"

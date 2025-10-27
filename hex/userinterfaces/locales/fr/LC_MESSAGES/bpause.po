@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+
+#: gui/pause_menu_gui.py:27 gui/pause_menu_gui.py:54
+msgid "Pause"
+msgstr "Pause"
+
+#: gui/pause_menu_gui.py:58
+msgid "Resume"
+msgstr "Reprendre"
+
+#: gui/pause_menu_gui.py:62 gui/pause_menu_gui.py:113 gui/pause_menu_gui.py:239
+msgid "Save..."
+msgstr "Sauvegarder..."
+
+#: gui/pause_menu_gui.py:66
+msgid "Restart..."
+msgstr "Recommencer..."
+
+#: gui/pause_menu_gui.py:78 gui/pause_menu_gui.py:240
+msgid "Main Menu..."
+msgstr "Menu Principal..."
+
+#: gui/pause_menu_gui.py:82
+msgid "Give up..."
+msgstr "Abandonner..."
+
+#: gui/pause_menu_gui.py:104
+msgid "Hex Game file"
+msgstr "Fichier de jeu Hex"
+
+#: gui/pause_menu_gui.py:107
+msgid "Save the current game"
+msgstr "Sauvegarder la partie en cours"
+
+#: gui/pause_menu_gui.py:112
+msgid "Cancel"
+msgstr "Annuler"
+
+#: gui/pause_menu_gui.py:138
+msgid "Game successfully saved !"
+msgstr "Jeu sauvegardé avec succès !"
+
+#: gui/pause_menu_gui.py:171
+msgid "Do you really want to go restart the game ?"
+msgstr "Voulez-vous vraiment recommencer le jeu ?"
+
+#: gui/pause_menu_gui.py:174 gui/pause_menu_gui.py:201
+#: gui/pause_menu_gui.py:267
+msgid "Any unsaved progress will be lost."
+msgstr "Tout progrès non sauvegardé sera perdu."
+
+#: gui/pause_menu_gui.py:198
+msgid "Do you really want to go back to the main menu ?"
+msgstr "Voulez-vous vraiment revenir au menu principal ?"
+
+#: gui/pause_menu_gui.py:235
+msgid "Player {} gave up!"
+msgstr "Le joueur {} a abandonné !"
+
+#: gui/pause_menu_gui.py:264
+msgid "Do you really want to give up ?"
+msgstr "Voulez-vous vraiment abandonner ?"
+
+#: gui/pause_menu_gui.py:241
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: gui/pause_menu_gui.py:242
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+#~ msgid "Save Moves"
+#~ msgstr "Sauvgarder les Coups"

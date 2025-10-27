@@ -1,0 +1,15 @@
+window {
+    background-color: #f9d511;
+} label {
+    color: black;
+    font-family: sans-serif;
+    font-weight: bold;
+} button {
+    background: none;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+} button:hover {
+    background-color: darkgray;
+}

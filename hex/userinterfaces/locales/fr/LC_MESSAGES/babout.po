@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+
+#: gui/about_gui.py:26
+msgid "About"
+msgstr "A propos"
+
+#: gui/about_gui.py:45
+msgid "Informations"
+msgstr ""
+
+#: gui/about_gui.py:79
+msgid "Contributors"
+msgstr "Contributeurs"
+
+#: gui/about_gui.py:104
+msgid "Back"
+msgstr "Retour"

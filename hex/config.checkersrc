@@ -1,0 +1,25 @@
+[Game]
+board-size = 11
+swap = false
+contest =
+blitz = false
+time = 30
+gui = false
+language = en
+load =
+
+[AI]
+ai = O
+ai-mode = minimax
+ai-mode-player-o = alpha_beta
+ai-mode-player-x = mcts
+ai-depth = 3
+ai-heuristic = bfs
+ai-heuristic-player-o = path_oriented
+ai-heuristic-player-x = dijkstra 
+ai-time = 45
+
+[Dev]
+version = false
+verbose = false
+debug = false

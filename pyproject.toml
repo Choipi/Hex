@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hex"
+dynamic = ["version"]
+description = "PDP - Projet du groupe hex-python"
+requires-python = ">=3.10"
+authors = [
+  { name = "KUSTERS Timon", email = "timon.kusters@etu.u-bordeaux.fr"},
+  { name = "HERR Mariano", email = "mariano.herr@etu.u-bordeaux.fr"},
+  { name = "HUBINCU Morgan", email = "morgan.hubincu@etu.u-bordeaux.fr"},
+  { name = "ROCHETEAU Yohann", email = "yohann.rocheteau@etu.u-bordeaux.fr"},
+  { name = "GUITARD Paul", email = "paul.guitard@etu.u-bordeaux.fr"}
+]
+dependencies = [
+  "bitarray",
+  "pytest",
+  'importlib-metadata; python_version<"3.10"',
+  "pytest-cov",
+  "pytest-mock",
+  "numpy",
+  "pycairo",
+  "PyGObject==3.44.2",
+  "pygobject-stubs"
+]
+
+[tool.setuptools.packages.find]
+include = ["hex*"]
+
+[tool.setuptools.dynamic]
+version = {attr = "hex.__version__"}
+
+[tool.pytest.ini_options]
+addopts = [
+  "--cov=hex",
+  "--cov-report=html",
+  "--cov-report=term",
+  "--cov-branch",
+]
+
+[project.scripts]
+hex = "hex.__main__:main"

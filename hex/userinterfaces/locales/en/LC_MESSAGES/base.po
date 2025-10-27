@@ -1,0 +1,141 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-03-20 13:47+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: cli.py:29
+msgid "confirm action "
+msgstr ""
+
+#: cli.py:29
+msgid "confirm action "
+msgstr ""
+
+#: cli.py:35
+msgid "; respond by typing 'y' or 'n'."
+msgstr ""
+
+#: cli.py:35
+msgid "Invalid input"
+msgstr ""
+
+#: cli.py:42
+msgid ""
+"Hex game input syntax help:\n"
+"    [letter][number]: Input next move to play (example: 'a5').\n"
+"    'u/undo':         Undo the two players last moves.\n"
+"    'r/redo':         Redo the two players last undone moves.\n"
+"    'h/help':         Display program help\".\n"
+"    'd/display':      Display current game board.\n"
+"    'restart':        Restart current game (with the same configuration).\n"
+"    'l/load' [FILE]:  Load game in specified file name (not implemented yet).\n"
+"    's/save' [FILE]:  Save current game in specified file name (not implemented yet).\n"
+"    'g/give up'       Give up current game (current player loses).\n"
+"    'q/quit':         Exit program."
+msgstr ""
+
+#: cli.py:87
+msgid "------ HEX GAME ------"
+msgstr ""
+
+#: cli.py:153
+msgid "File does not correspond to the hexgame format."
+msgstr ""
+
+#: cli.py:166
+msgid "File saved at ["
+msgstr ""
+
+#: cli.py:183
+msgid "Player O played move ("
+msgstr ""
+
+#: cli.py:185
+msgid "Player X played move ("
+msgstr ""
+
+#: cli.py:188
+msgid ") is already occupied."
+msgstr ""
+
+#: cli.py:188
+msgid "Space ("
+msgstr ""
+
+#: cli.py:190
+msgid ") is out of bounds."
+msgstr ""
+
+#: cli.py:190
+msgid "Move ("
+msgstr ""
+
+#: cli.py:198
+msgid "Undo not possible; done moves history is currently empty."
+msgstr ""
+
+#: cli.py:200
+msgid "Undo not possible; an unexpected error occured (code"
+msgstr ""
+
+#: cli.py:208
+msgid "Redo not possible; undone moves history is currently empty."
+msgstr ""
+
+#: cli.py:210
+msgid "Redo not possible; an unexpected error occured (code "
+msgstr ""
+
+#: cli.py:292
+msgid "Invalid input (input 'h' for help)."
+msgstr ""
+
+#: cli.py:308
+msgid "Game over ! Winner : O"
+msgstr ""
+
+#: cli.py:310
+msgid "Game over ! Winner : X"
+msgstr ""
+
+#: cli.py:313
+msgid "Winning path: "
+msgstr ""
+
+#: cli.py:314
+msgid ""
+"Input next action (actions available from game over: load/save/restart/quit) ('h' for help):\n"
+msgstr ""
+
+#: cli.py:317 cli.py:319
+msgid "Round "
+msgstr ""
+
+#: cli.py:322
+msgid "Swap option is enabled and is now available so that X player can play over O player's move."
+msgstr ""
+
+#: cli.py:326
+msgid ""
+"Input next action ('h' for help):\n"
+msgstr ""
+
+#: cli.py:336
+msgid "Player X's time ran out !"
+msgstr ""
+
+#: cli.py:338
+msgid "Player O's time ran out !"
+msgstr ""
+

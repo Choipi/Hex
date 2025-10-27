@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+
+#: gui/game_gui.py:32
+msgid "Hex Game"
+msgstr "JEU HEX"
+
+#: gui/game_gui.py:56
+msgid "Undo"
+msgstr "Annuler"
+
+#: gui/game_gui.py:57
+msgid "Redo"
+msgstr "Refaire"
+
+#: gui/game_gui.py:58
+msgid "Hint"
+msgstr "Indice"
+
+#: gui/game_gui.py:59
+msgid "Pause"
+msgstr ""
+
+#: gui/game_gui.py:136
+msgid "O's left time : "
+msgstr "Temps restant de O : "
+
+#: gui/game_gui.py:169
+msgid "O's left time : ∞"
+msgstr "Temps restant de O : ∞"
+
+#: gui/game_gui.py:137
+msgid "X's left time : "
+msgstr "Temps restant de X : "
+
+#: gui/game_gui.py:139 gui/game_gui.py:140
+msgid "X's left time : ∞"
+msgstr "Temps restant de X : ∞"
+
+#: gui/game_gui.py:144
+msgid ""
+"Done moves\n"
+"- - - - - - - - - - -"
+msgstr ""
+"Coups joués\n"
+"- - - - - - - - - - -"
+
+#: gui/game_gui.py:145
+msgid ""
+"Undone moves\n"
+"- - - - - - - - - - - - -"
+msgstr ""
+"Coups annulés\n"
+"- - - - - - - - - - - - -"
+
+#: gui/game_gui.py:147 gui/game_gui.py:152
+msgid ""
+"\n"
+"None"
+msgstr ""
+"\n"
+"Aucun"
+#: gui/game_gui.py:173
+msgid "Undo not possible : the done moves list is currently empty."
+msgstr ""
+"L'annulation n'est pas possible : la liste des coups joués est actuellement "
+"vide."
+
+#: gui/game_gui.py:186
+msgid "Redo not possible: the undone moves list is currently empty."
+msgstr ""
+"Refaire n'est pas possible : la liste des mouvements annulés est "
+"actuellement vide."
+
+#: gui/game_gui.py:192
+msgid "Game is over !"
+msgstr "Fin du jeu !"
+
+#: gui/game_gui.py:195
+msgid "The best AI thinks that the current player should play the move '"
+msgstr "L'IA pense que le joueur actuel devrait jouer en "
+
+#: gui/game_gui.py:218
+msgid "Game over ! Winner : "
+msgstr "Fin du jeu ! Gagnant : "
+
+#: gui/game_gui.py:220
+msgid "Round n°"
+msgstr "Tour n°"
+
+#: gui/game_gui.py:222
+msgid "current player : "
+msgstr "joueur actuel :"
+
+#: gui/game_gui.py:225
+msgid ""
+"\n"
+"--- AI IS CURRENTLY PLAYING ---"
+msgstr ""
+"\n"
+"--- L'IA EST ACTUELLEMENT EN TRAIN DE JOUER ---"
+
+#: gui/game_gui.py:255
+msgid ""
+"Swap option is enabled and is now available so that X player can play over O "
+"player's move."
+msgstr ""
+"L'option Swap est activée et est maintenant disponible pour que le joueur X "
+"puisse jouer à la place du joueur O. le coup du joueur."
+
+#: gui/game_gui.py:257
+msgid "Would you like to swap ?"
+msgstr "Voulez-vous échanger ?"
+
+#: gui/game_gui.py:274
+msgid "Do you really want to close the game ?"
+msgstr "Voulez-vous vraiment fermer le jeu ?"
+
+#: gui/game_gui.py:276
+msgid "Any unsaved progress will be lost."
+msgstr "Tout progrès non sauvegardé sera perdu."

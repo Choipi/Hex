@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-27 13:14+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gui/new_game_menu_gui.py:26 gui/new_game_menu_gui.py:56
+msgid "New Game"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:61
+msgid "General Settings"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:69
+msgid "Board size"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:89
+msgid "Blitz"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:98
+msgid "Time"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:112
+msgid "Swap"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:121
+msgid "AI Settings"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:138
+msgid "Simple"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:142
+msgid "None"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:143
+msgid "Easy"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:144
+msgid "Hard"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:158
+msgid ""
+"This mode is designed for beginners.\n"
+"\n"
+"The AI will make simple moves, it won't analyze the game deeply."
+msgstr ""
+
+#: gui/new_game_menu_gui.py:165
+msgid ""
+"This mode is designed for advanced players.\n"
+"\n"
+"The AI will have more time to analyze the game in-depth, using sophisticated "
+"algorithms."
+msgstr ""
+
+#: gui/new_game_menu_gui.py:181
+msgid "Advanced"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:187
+msgid "AI Player : "
+msgstr ""
+
+#: gui/new_game_menu_gui.py:207
+msgid "Select which player the AI will control\n"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:208
+msgid "- None: No AI assistance\n"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:209
+msgid "- X: AI controls player X\n"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:210
+msgid "- O: AI controls player O\n"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:211
+msgid "- A: AI controls all players"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:225
+msgid "AI Mode"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:249
+msgid "AI Depth"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:271
+msgid "AI Heuristic"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:323
+msgid "Back"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:327
+msgid "Back button unavailable"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:329
+msgid "Start"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:437
+msgid "The board size must be a number between 9 and 20."
+msgstr ""
+
+#: gui/new_game_menu_gui.py:445
+msgid "The blitz time value must be a positive number."
+msgstr ""

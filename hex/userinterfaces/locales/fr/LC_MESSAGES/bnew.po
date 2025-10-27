@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+
+#: gui/new_game_menu_gui.py:27 gui/new_game_menu_gui.py:57
+msgid "New Game"
+msgstr "Nouvelle Partie"
+
+#: gui/new_game_menu_gui.py:62
+msgid "General Settings"
+msgstr "Paramètres"
+
+#: gui/new_game_menu_gui.py:70
+msgid "Board size"
+msgstr "Taille du plateau"
+
+#: gui/new_game_menu_gui.py:90
+msgid "Blitz"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:99
+msgid "Time (min)"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:113
+msgid "Swap"
+msgstr "Échange"
+
+#: gui/new_game_menu_gui.py:122
+msgid "AI Settings"
+msgstr "Paramètres IA"
+
+#: gui/new_game_menu_gui.py:139
+msgid "Simple"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:141
+msgid ""
+"Player vs Player : no AI is involved.\n"
+"\n"
+"If you wish to play against an AI, select another option from the dropdown "
+"above, or adjust the settings in the Advanced tab."
+
+msgstr ""
+"Joueur contre joueur : aucune IA n'est impliquée.\n"
+"\n"
+"Si vous souhaitez jouer contre une IA, sélectionnez une autre option via le menu déroulant "
+"ci-dessus, ou ajustez les paramètres dans l'onglet Avancé."
+
+#: gui/new_game_menu_gui.py:145
+msgid ""
+"This mode is designed for advanced players.\n"
+"\n"
+"The AI will have more time to analyze the game in-depth, using sophisticated "
+"algorithms."
+msgstr ""
+"Ce mode est destiné aux joueurs avancés.\n"
+"\n"
+"L'IA disposera de plus de temps pour analyser le jeu en profondeur, à l'aide "
+"d'algorithmes sophistiqués."
+
+#: gui/new_game_menu_gui.py:149
+msgid ""
+"This mode is designed for beginners.\n"
+"\n"
+"The AI will make simple moves, it won't analyze the game deeply."
+msgstr ""
+"Ce mode est conçu pour les débutants.\n"
+"\n"
+"L'IA fera des mouvements simples, elle n'analysera pas le jeu en profondeur."
+
+#: gui/new_game_menu_gui.py:152
+msgid ""
+"Custom settings.\n"
+"\n"
+"Manually adjust the AI settings as needed, in the Advanced tab."
+msgstr ""
+"Paramètres personnalisés.\n"
+"\n"
+"Ajustez manuellement les paramètres de l'IA si nécessaire, dans l'onglet Avancé."
+
+#: gui/new_game_menu_gui.py:162 gui/new_game_menu_gui.py:202
+#: gui/new_game_menu_gui.py:655
+msgid "None"
+msgstr "Aucun"
+
+#: gui/new_game_menu_gui.py:163
+msgid "Easy"
+msgstr "Facile"
+
+#: gui/new_game_menu_gui.py:164
+msgid "Hard"
+msgstr "Difficile"
+
+#: gui/new_game_menu_gui.py:177 gui/new_game_menu_gui.py:587
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: gui/new_game_menu_gui.py:193
+msgid "Advanced"
+msgstr "Avancé"
+
+#: gui/new_game_menu_gui.py:200
+msgid "AI Player : "
+msgstr "Joueur IA : "
+
+#: gui/new_game_menu_gui.py:228
+msgid "Select which player the AI will control\n"
+msgstr "Choisissez le joueur que l'IA contrôlera\n"
+
+#: gui/new_game_menu_gui.py:229
+msgid "- None: No AI assistance\n"
+msgstr "- Aucun : Pas d'assistance de l'IA\n"
+
+#: gui/new_game_menu_gui.py:230
+msgid "- X: AI controls player X\n"
+msgstr "- X : L'IA contrôle le joueur X\n"
+
+#: gui/new_game_menu_gui.py:231
+msgid "- O: AI controls player O\n"
+msgstr "- O : L'IA contrôle le joueur O\n"
+
+#: gui/new_game_menu_gui.py:232
+msgid "- A: AI controls all players"
+msgstr "- A : L'IA contrôle tous les joueurs"
+
+#: gui/new_game_menu_gui.py:248
+msgid "Minimax"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:249
+msgid "αβ-pruning"
+msgstr "Élagage αβ"
+
+#: gui/new_game_menu_gui.py:250
+msgid "Random exploration"
+msgstr "Exploration aléatoire"
+
+#: gui/new_game_menu_gui.py:251
+msgid "Monte Carlo Tree Search"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:263
+msgid "AI Mode (player X)"
+msgstr "Mode de l'IA (Joueur X)"
+
+#: gui/new_game_menu_gui.py:288
+msgid "AI Mode (player O)"
+msgstr "Mode de l'IA (Joueur O)"
+
+#: gui/new_game_menu_gui.py:313
+msgid "AI Depth"
+msgstr "Profondeur de l'IA"
+
+#: gui/new_game_menu_gui.py:337
+msgid "Path oriented"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:338
+msgid "Potential threats"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:339
+msgid "Random"
+msgstr "Aléatoire"
+
+#: gui/new_game_menu_gui.py:340
+msgid "BFS"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:341
+msgid "Dijkstra"
+msgstr ""
+
+#: gui/new_game_menu_gui.py:354
+msgid "AI Heuristic (player X)"
+msgstr "Heuristique de l'IA (Joueur X)"
+
+#: gui/new_game_menu_gui.py:380
+msgid "AI Heuristic (player O)"
+msgstr "Heuristique de l'IA (Joueur O)"
+
+#: gui/new_game_menu_gui.py:405
+msgid "AI time (s)"
+msgstr "Temps de l'IA (s)"
+
+#: gui/new_game_menu_gui.py:433
+msgid "Back"
+msgstr "Retour"
+
+#: gui/new_game_menu_gui.py:437
+msgid "Back button unavailable"
+msgstr "Bouton de retour indisponible"
+
+#: gui/new_game_menu_gui.py:439
+msgid "Start"
+msgstr "Jouer"
+
+#: gui/new_game_menu_gui.py:647
+msgid "The board size must be a number between 1 and 20."
+msgstr "La taille du tableau doit être un nombre compris entre 1 et 20."

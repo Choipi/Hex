@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-03-27 13:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gui/help_gui.py:25
+msgid "Help"
+msgstr ""
+
+#: gui/help_gui.py:44
+msgid "Game Configuration"
+msgstr ""
+
+#: gui/help_gui.py:87
+msgid "Game Rules"
+msgstr ""
+
+#: gui/help_gui.py:92
+msgid "<b>Your goal :</b>\n"
+msgstr ""
+
+#: gui/help_gui.py:93
+msgid ""
+"Connect your two opposite sides with an unbroken chain before your "
+"opponent.\n"
+"\n"
+msgstr ""
+
+#: gui/help_gui.py:95
+msgid "<b>Gameplay :</b>\n"
+msgstr ""
+
+#: gui/help_gui.py:96
+msgid ""
+"- Two players: <b>Black</b> (top to bottom) and <b>White</b> (left to "
+"right).\n"
+msgstr ""
+
+#: gui/help_gui.py:98
+msgid "- Players take turns placing a piece on an empty hexagon.\n"
+msgstr ""
+
+#: gui/help_gui.py:99
+msgid "- Once placed, pieces cannot be moved or removed.\n"
+msgstr ""
+
+#: gui/help_gui.py:100
+msgid ""
+"- The four corners belong to both adjacent sides.\n"
+"\n"
+msgstr ""
+
+#: gui/help_gui.py:101
+msgid "<b>Winning Condition :</b>\n"
+msgstr ""
+
+#: gui/help_gui.py:102
+msgid ""
+"The first player to create a continuous path between their two sides wins.\n"
+msgstr ""
+
+#: gui/help_gui.py:104
+msgid ""
+"A draw is <b>impossible</b>.\n"
+"\n"
+msgstr ""
+
+#: gui/help_gui.py:105
+msgid "<b>Swap Rule (Optional) :</b>\n"
+msgstr ""
+
+#: gui/help_gui.py:106
+msgid ""
+"The second player can swap colors after the first move to balance the game.\n"
+"\n"
+msgstr ""
+
+#: gui/help_gui.py:108
+msgid "<b>Basic Strategy :</b>\n"
+msgstr ""
+
+#: gui/help_gui.py:109
+msgid ""
+"- <b>Build, don’t just block</b> : focus on your path while disrupting your "
+"opponent.\n"
+msgstr ""
+
+#: gui/help_gui.py:111
+msgid ""
+"- <b>Bridge formations</b> : Use bridges to make connections between your "
+"pieces and block your opponent simultaneously.\n"
+msgstr ""
+
+#: gui/help_gui.py:113
+msgid ""
+"- <b>Hex connections</b> : each tile has <b>6 neighbors</b>, offering "
+"multiple paths.\n"
+msgstr ""
+
+#: gui/help_gui.py:115
+msgid ""
+"- <b>Take your time</b> : If you can easily counter your own move, find a "
+"stronger one.\n"
+msgstr ""
+
+#: gui/help_gui.py:117
+msgid ""
+"- <b>Never give up</b> : Don't lose hope until the game is truly over, focus "
+"on securing winnable areas."
+msgstr ""
+
+#: gui/help_gui.py:127
+msgid "Back"
+msgstr ""

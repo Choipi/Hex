@@ -1,0 +1,55 @@
+§
+#
+OOXXXOXXXXO
+X..OOX.X.XX
+OX.XX.O..O.
+X.OO...OOX.
+OXXXO.X.O.O
+X.O.XO..X.O
+.OX.OXO...X
+OXO...X.X.O
+........OO.
+.O.X.O.O..X
+...O...O...
+
+#
+Next player to play : 1
+#
+Current game round : 33
+#
+1. Oa1|Xa2
+2. Oa3|Xa4
+3. Oa5|Xa6
+4. Oa8|Xb5
+5. Ob1|Xb3
+6. Ob7|Xb8
+7. @b10|Xc1
+8. Oc4|Xc5
+9. Oc6|Xc7
+10. Oc8|Xe1
+11. Oe2|Xe3
+12. e5|Xe6
+13. Oe7|Xd10
+14. Od11|Xd1
+15. gd2|Xd3
+16. Od4|Xd5
+17. Of1|Xf2
+18. Of6|Xf7
+19. Of10|Xg1
+20. Og3|Xg5
+21. Og7|Xg8
+22. Oh10|Xh1
+23. Oh11|Xh2
+24. Oh4|Xj1
+25. Oj3|Xj4
+26. Oj9|Xi1
+27. Oi5|Xi8
+28. Oi4|Xj2
+29. Ok1|Xk2
+30. Ok5|Xk10
+31. Ok8|Xk7
+32. Ok6|Xi6
+33. Oi9|
+#
+Game dimension is : 11
+#

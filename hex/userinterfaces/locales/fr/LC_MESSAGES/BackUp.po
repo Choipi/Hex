@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+
+#: cli.py:29
+msgid ", yes or no ? ('y/n'):\n"
+msgstr ", oui ou non ? ('y/n'):\n"
+
+#: cli.py:35
+msgid "; respond by typing 'y' or 'n'."
+msgstr "; répondez avec 'y' ou 'n'."
+
+#: cli.py:35
+msgid "Invalid input"
+msgstr "Entrée invalide"
+
+#: cli.py:42
+msgid ""
+"Hex game input syntax help:\n"
+"    [letter][number]: Input next move to play (example: 'a5').\n"
+"    'u/undo':         Undo the two players last moves.\n"
+"    'r/redo':         Redo the two players last undone moves.\n"
+"    'h/help':         Display program help\".\n"
+"    'd/display':      Display current game board.\n"
+"    'restart':        Restart current game (with the same configuration).\n"
+"    'l/load' [FILE]:  Load game in specified file name (not implemented yet).\n"
+"    's/save' [FILE]:  Save current game in specified file name (not implemented yet).\n"
+"    'g/give up'       Give up current game (current player loses).\n"
+"    'q/quit':         Exit program."
+msgstr ""
+
+#: cli.py:87
+msgid "------ HEX GAME ------"
+msgstr "------ JEU HEX ------"
+
+#: cli.py:121
+msgid "Last done moves:"
+msgstr "Dernier coups joués:"
+
+#: cli.py:122
+msgid "Last undone moves:"
+msgstr "Dernier coups enlevés:"
+
+#: cli.py:123
+msgid "O remaining time:"
+msgstr "Temps restant de 0:"
+
+#: cli.py:124
+msgid "X remaining time:"
+msgstr "Temps restant de X:"
+
+#: cli.py:153
+msgid "File does not correspond to the hexgame format."
+msgstr "Le fichier ne correspond pas au format hexgame."
+
+#: cli.py:166
+msgid "File saved at ["
+msgstr "Fichier enregistré à ["
+
+#: cli.py:183
+msgid "Player O played move ("
+msgstr "Le joueur O a joué le coup ("
+
+#: cli.py:185
+msgid "Player X played move ("
+msgstr "Le joueur X a joué le coup ("
+
+#: cli.py:188
+msgid ") is already occupied."
+msgstr ") est déjà occupée."
+
+#: cli.py:188
+msgid "Space ("
+msgstr "Espace ("
+
+#: cli.py:190
+msgid ") is out of bounds."
+msgstr ") est hors limites."
+
+#: cli.py:190
+msgid "Move ("
+msgstr "Le coup ("
+
+#: cli.py:198
+msgid "Undo not possible; done moves history is currently empty."
+msgstr "L'annulation n'est pas possible ; l'historique des mouvements effectués est actuellement vide."
+
+#: cli.py:200
+msgid "Undo not possible; an unexpected error occured (code"
+msgstr "L'annulation n'est pas possible ; une erreur inattendue s'est produite (code"
+
+#: cli.py:208
+msgid "Redo not possible; undone moves history is currently empty."
+msgstr "Refaire le coup n'est pas possible ; l'historique des mouvements annulés est actuellement vide."
+
+#: cli.py:210
+msgid "Redo not possible; an unexpected error occured (code "
+msgstr "Refaire le coup n'est pas possible ; une erreur inattendue s'est produite (code "
+
+#: cli.py:292
+msgid "Invalid input (input 'h' for help)."
+msgstr "Entrée non valide (saisir 'h' pour l'aide)."
+
+#: cli.py:308
+msgid "Game over ! Winner : O"
+msgstr "Fin du jeu ! Gagnant : 0"
+
+#: cli.py:310
+msgid "Game over ! Winner : X"
+msgstr "Fin du jeu ! Gagnant : X"
+
+#: cli.py:313
+msgid "Winning path: "
+msgstr "Le chemin de la victoire : "
+
+#: cli.py:314
+msgid ""
+"Input next action (actions available from game over: load/save/restart/quit) ('h' for help):\n"
+msgstr ""
+"Saisir l'action suivante (actions disponibles à partir de fin de jeu : load/save/restart/quit) ('h' pour l'aide):\n"
+
+#: cli.py:317
+msgid ", current player : O."
+msgstr ", joueur actuel : O."
+
+#: cli.py:319
+msgid ", current player : X."
+msgstr ", joueur actuel : X."
+
+#: cli.py:317 cli.py:319
+msgid "Round "
+msgstr "Tour "
+
+#: cli.py:322
+msgid "Swap option is enabled and is now available so that X player can play over O player's move."
+msgstr ""
+
+#: cli.py:326
+msgid ""
+"Input next action ('h' for help):\n"
+msgstr "Saisir l'action suivante ('h' pour l'aide):\n"
+
+#: cli.py:336
+msgid "Player X's time ran out !"
+msgstr "Le temps du joueur X est écoulé !"
+
+#: cli.py:338
+msgid "Player O's time ran out !"
+msgstr "Le temps du joueur O est écoulé !"
+

@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+
+#: gui/main_menu_gui.py:29 gui/main_menu_gui.py:52 gui/main_menu_gui.py:285
+#: gui/main_menu_gui.py:287
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: gui/main_menu_gui.py:58
+
+msgid "New Game..."
+msgstr "Nouvelle Partie..."
+
+#: gui/main_menu_gui.py:59
+
+msgid "Load Game..."
+msgstr "Charger une Partie..."
+
+#: gui/main_menu_gui.py:60
+
+msgid "Contest"
+msgstr "Compétition"
+
+#: gui/main_menu_gui.py:61
+msgid "Exit"
+msgstr "Quitter"
+
+#: gui/main_menu_gui.py:84
+msgid "About..."
+msgstr "À propos..."
+
+#: gui/main_menu_gui.py:86
+msgid "Help..."
+msgstr "Aide..."
+
+#: gui/main_menu_gui.py:106 gui/main_menu_gui.py:295
+msgid "Language : "
+msgstr "Langue : "
+
+#: gui/main_menu_gui.py:153
+msgid "Hex Game file"
+msgstr "Fichier du jeu"
+
+#: gui/main_menu_gui.py:157
+msgid "Choose a game file"
+msgstr "Choisir un fichier de jeu"
+
+#: gui/main_menu_gui.py:162
+msgid "Cancel"
+msgstr "Annuler"
+
+#: gui/main_menu_gui.py:163
+msgid "Open"
+msgstr "Ouvrir"
+
+#: gui/main_menu_gui.py:292
+msgid "About"
+msgstr "À propos..."
+
+#: gui/main_menu_gui.py:293
+msgid "Help"
+msgstr "Aide..."

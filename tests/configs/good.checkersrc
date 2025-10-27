@@ -1,0 +1,26 @@
+[Game]
+board-size = 11
+swap = false
+contest = false
+blitz = false
+time = 30
+gui = false
+language = en
+load = None
+
+[AI]
+ai = None
+ai-mode = mcts
+ai-mode-player-o = mcts
+ai-mode-player-x = mcts
+ai-depth = 2
+ai-heuristic = path_oriented_heuristic
+ai-heuristic-player-o = path_oriented_heuristic
+ai-heuristic-player-x = path_oriented_heuristic
+ai-time = 5
+
+[Dev]
+version = false
+verbose = false
+debug = false
+
