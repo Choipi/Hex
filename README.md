@@ -1,10 +1,3 @@
-# PDP 2025
-
-The repository contains three main directories :
-
-- `<project_name>/`: The project source code.
-- `reports/preliminary`: The preliminary report's code (LaTeX).
-- `reports/final`: The final report's code (LaTeX).
 
 # Authors
 
